@@ -1,0 +1,14 @@
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\bin\Debug\net10.0\Sapkota2.exe
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\bin\Debug\net10.0\Sapkota2.deps.json
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\bin\Debug\net10.0\Sapkota2.runtimeconfig.json
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\bin\Debug\net10.0\Sapkota2.dll
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\bin\Debug\net10.0\Sapkota2.pdb
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.AssemblyInfo.cs
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.dll
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\refint\Sapkota2.dll
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.pdb
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\Sapkota2.genruntimeconfig.cache
+C:\Users\Dell\Downloads\CSC 346\Sapkota2\Sapkota2\obj\Debug\net10.0\ref\Sapkota2.dll
