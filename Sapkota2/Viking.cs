@@ -13,15 +13,15 @@ namespace VikingNS
         // Auto-properties
         public string Name { get; set; }
         public Global.Status Status { get; set; }
-        public int Health { get; set; }
+        public short Health { get; set; }
         public Global.Weapon Weapon { get; set; }
         public bool Shield { get; set; }
 
-        // Default / Parameterized constructor
+        // Default constructor
         public Viking(
             string name = "Bjorn",
             Global.Status status = Global.Status.KARL,
-            int health = 150,
+            short health = 150,
             Global.Weapon weapon = Global.Weapon.AXE,
             bool shield = false)
         {
@@ -41,20 +41,26 @@ namespace VikingNS
             Weapon = other.Weapon;
             Shield = other.Shield;
         }
+                  
+                  private string FormatEnum(Enum value)
+                    {
+                      string lower = value.ToString().ToLower();
+                    return char.ToUpper(lower[0]) + lower.Substring(1);
+                    }
 
         // Interface method: Horizontal view
         public void ViewH()
-        {
-            Console.WriteLine($"{Name} {Status} {Health} {Weapon} {Shield}");
-        }
+{
+    Console.WriteLine($"{Name} {FormatEnum(Status)} {Health} {FormatEnum(Weapon)} {Shield}");
+}
 
         // Interface method: Vertical view
         public void ViewV()
         {
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Status: {Status}");
-            Console.WriteLine($"Health: {Health}");
-            Console.WriteLine($"Weapon: {Weapon}");
+           Console.WriteLine($"Name: {Name}");
+           Console.WriteLine($"Status: {FormatEnum(Status)}");
+           Console.WriteLine($"Health: {Health}");
+            Console.WriteLine($"Weapon: {FormatEnum(Weapon)}");
             Console.WriteLine($"Shield: {Shield}");
         }
     }

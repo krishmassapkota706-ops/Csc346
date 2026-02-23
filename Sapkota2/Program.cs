@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
 
 using VikingNS;
@@ -9,7 +9,7 @@ class Program
     static void Main()
     {
         // Print teammates
-        Console.WriteLine("Krishmas Sapkota");
+        Console.WriteLine("Group-Krishmas Sapkota");
         Console.WriteLine("Caleb Dudgeon");
         Console.WriteLine("Noah Franke");
 

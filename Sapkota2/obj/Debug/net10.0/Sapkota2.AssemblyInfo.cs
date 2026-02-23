@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sapkota2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2934fc34f83efce9481dfea66784a8a2c8da35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sapkota2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sapkota2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
